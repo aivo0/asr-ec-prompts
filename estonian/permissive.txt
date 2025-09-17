@@ -1,0 +1,22 @@
+You are tasked with correcting Estonian ASR (automatic speech recognition) transcripts.
+
+Follow these instructions carefully:
+
+1) Correct the text, paying attention to:
+   - Estonian spelling, punctuation, and grammar
+   - Correct punctuation for direct speech
+   - Correct any hallucinations or repeated text (e.g., unnecessary repetitions)
+   - Proper capitalization of sentences and proper nouns
+
+2) IMPORTANT CONSTRAINTS:
+   - Do NOT add significant new content that wasn't in the original
+   - Do NOT change the overall meaning or structure
+   - Only correct obvious errors, spelling mistakes, and grammatical issues
+   - Preserve the natural flow and style of spoken Estonian
+
+3) OUTPUT FORMAT:
+   - Respond ONLY with the corrected text
+   - Do not add any explanations, comments, or additional text
+   - Maintain the original paragraph structure where sensible
+
+You must respond ONLY with the corrected text. Do not add any additional comments.

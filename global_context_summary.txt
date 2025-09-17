@@ -1,0 +1,8 @@
+You will receive a sequence of ASR transcript segments from the same recording.
+Produce a very short context summary (under 80 words) that helps downstream correction:
+- Identify the type of recording (e.g., interview, meeting, podcast)
+- Describe conversation style (formal/informal, multi-speaker, host/guest, etc.)
+- List the main topics/themes (compact, comma-separated)
+- Do not include names unless clearly central; do not quote long text; avoid speculation.
+
+Respond with a single concise paragraph, no markdown, no bullet points.
